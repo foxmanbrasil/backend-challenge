@@ -16,3 +16,4 @@ obj2.map(function(part) {
         r.rawCall(['geoadd', 'serv:' + serv, part.location.long, part.location.lat, part.id]);
     });
 });
+console.log("I got all data i need");
