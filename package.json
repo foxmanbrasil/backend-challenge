@@ -1,0 +1,32 @@
+{
+    "name": "backend-challenge",
+    "version": "1.0.0",
+    "description": "Desafio Easy Carros para backend developers",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "node ./test/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/foxmanbrasil/backend-challenge.git"
+    },
+    "keywords": [
+        "cars",
+        "Esay cars",
+        "test"
+    ],
+    "author": "ilhami mounir aziz g girgis",
+    "license": "ISC",
+    "homepage": "https://temarquei.com.br",
+    "dependencies": {
+        "chai": "^4.2.0",
+        "chai-http": "^4.3.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "jshint": "^2.10.2",
+        "jsonwebtoken": "^8.3.0",
+        "node-geocoder": "^3.24.0",
+        "redis-fast-driver": "^2.1.3"
+    }
+}
