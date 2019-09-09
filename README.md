@@ -20,9 +20,11 @@ you need to run inside the project :
 -------------------
 
 # EndPoints:
-/login => which is [POST] need  email,password   // the same as You use, 
-/find =[GET] need  token,lat,long,service // return data of One Partner
-/findall =[GET] need  token,lat,long,service // return array of partners id.s
+/login => which is [POST] need  email,password   // the same as You use. 
+
+/find =[GET] need  token,lat,long,service // return data of One Partner.
+
+/findall =[GET] need  token,lat,long,service // return array of partners id.s.
 
 
 -------
