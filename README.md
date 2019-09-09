@@ -17,6 +17,10 @@ you need to run inside the project :
 # npm install
 # npm start
 
+it will import data from ./oldData folder 
+I got  users:61 ,partners :20
+
+
 -------------------
 
 # EndPoints:
