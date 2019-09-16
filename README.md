@@ -7,20 +7,19 @@ inside config.js you can change :
 2- expiresIn.
 3- Google ( server key ); // not working for me any more ,i am moved t Amazon
 ---------
-inside database.js you can change REDIS (address,IP)  and Password 
-i am working with redis database number [1] i have other things in database [0]
+inside database.js you can change REDIS (address,IP)  and Passwor,port ,dataBase Number.
+
 
 Main file is server.js  there you have "var old = require('./oldDataImporter');" which will import your
 users.json ,partners.json to Redis , my server allready has.
-you need to run inside the project :
 
+you need to run inside the project :
 # npm install
 # npm start
 
 it will import data from ./oldData folder .
 should in your case show :
-
-I got  users:60 ,partners :20
+#I got  users:60 ,partners :20
 
 
 -------------------
