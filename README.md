@@ -18,8 +18,9 @@ you need to run inside the project :
 # npm start
 
 it will import data from ./oldData folder .
-should in your case show :
-#I got  users:60 ,partners :20
+should in your case show Console message :
+
+I got  users:60 ,partners :20
 
 
 -------------------
