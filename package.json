@@ -24,7 +24,7 @@
         "chai": "^4.2.0",
         "chai-http": "^4.3.0",
         "ioredis": "^4.14.0",
-        "jsonwebtoken": "^8.3.0",
+        "jsonwebtoken": "^9.0.0",
         "moleculer": "^0.13.10",
         "moleculer-web": "^0.8.5",
         "node-geocoder": "^3.24.0"
